@@ -25,8 +25,8 @@ public class code_size   {
 			blankLinesum = 0, Dlinesum = 0, totalcharsum = 0,totalbytessum=0,methodsum=0,classsum=0,
 			totalHalsteadprogramValume=0,interfacesum=0,complexitysum=0;
 	public static String projectName = "E:\\3-2 semester\\software metrics LAB\\Airplane-sky-force";
-	//public static String projectName="D:\\Downlaods\\downloaded Files\\Wizard-Chess-master";
-	public static File csvfile=new File("C:\\Users\\ShEkH\\Desktop\\metrics txt file\\ReportTable.csv");
+	//public static String projectName="project Drectory";
+	public static File csvfile=new File("CSV file directory with file name");
 	public static Set<String> packages = new HashSet<String>();
 	public static Set<String> keywordList=new HashSet<String>();
 	public static Set<String> operatorSet=new HashSet<String>();
